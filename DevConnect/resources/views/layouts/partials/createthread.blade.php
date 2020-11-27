@@ -1,0 +1,1 @@
+<a class="btn btn-primary" href="{{route('thread.create')}}">Create Thread</a>
